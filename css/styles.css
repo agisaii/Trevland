@@ -774,12 +774,12 @@ img {
 }
 
 .special__slider-location {
-  background: url(/project/img/svg/icon-location.svg) left 6px no-repeat;
+  background: url(../img/svg/icon-location.svg) left 6px no-repeat;
   padding-left: 20px;
   color: rgb(0, 0, 0, 0.6);
 }
 .special__slider-rating {
-  background: url(/project/img/svg/icon-star.svg) left 3px no-repeat;
+  background: url(../img/svg/icon-star.svg) left 3px no-repeat;
   padding-left: 30px;
 }
 .special__slider-time {
